@@ -1,4 +1,4 @@
-# TinyOS_v2.0
+# TinyOS3_v2.0
 
 
 Tinyos3 was a team project for the lesson operating systems in which we extended the capabilities that the original (given) TinyOS3 could do given from the lecturer Vasilhs Samoladas. You can find the original in the following link(https://github.com/vsamtuc/tinyos3).
