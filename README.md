@@ -56,7 +56,7 @@ for anything serious, as well as the GDB debugger."
 
 ### Extra implementations
 
-In v2.0 we implemented the Pipes and Sockets capabilities of TinyOS as well as the system call OpenInfo.
+In v2.0 there are all the implementations of v1.0 and we also implemented the Pipes and Sockets capabilities of TinyOS as well as the system call OpenInfo.
 You can find the vocalization of the project in the pdf file below.
 
 [HRY-202 εκφώνηση project.pdf](https://github.com/darageor/tinyos3_v1.0/files/7515455/HRY-202.project.pdf)
