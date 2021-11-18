@@ -1,7 +1,7 @@
 # TinyOS3_v2.0
 
 
-Tinyos3 was a team project for the lesson operating systems in which we extended the capabilities that the original (given) TinyOS3 could do given from the lecturer Vasilhs Samoladas. You can find the original in the following link(https://github.com/vsamtuc/tinyos3).
+Tinyos3 was a team project for the lesson 'operating systems' in which we extended the capabilities that the original (given) TinyOS3 could do given from the lecturer Vasilhs Samoladas. You can find the original in the following link(https://github.com/vsamtuc/tinyos3).
 
 TinyOS is a very small operating system, built on top of a simple-minded virtual machine, whose purpose is
 purely educational. It is not related in any way to the well-known operating system for wireless sensors,
